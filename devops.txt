@@ -1,0 +1,60 @@
+Devops
+1)Buisiness perspective:
+2)technology perspective
+ ================================= 
+*devops:
+
+dev and operation team will be considered as one
+ci/cd
+micro service 
+Where:
+software
+infra/automation
+containerization(docker)
+================================================
+collection of tools which makes all the above concepts into automation
+
+Software:
+
+IT
+GitHUB,
+maven
+eclipse
+tomcat
+checkstyle
+ngrok
+jenkins
+
+--------------------
+*Infra/automation:
+
+Chef Ansible Terraform(CAT)
+----------------------------
+*Containerization
+Docker(is the latest one which we are going to follow)
+Apache Mesos(was the old one)
+================================================================================
+continuous integrtion delivery deployment:
+
+from user systems-->(code commit/github)Source code-->Build-->dev env-->test env-->submit-->production env
+your source code is attached or alligned with the build is called continuous integration(CI/CD) to get a single outcome.
+=======================================================================================================================
+how agile is gonna integrate with devops
+agile: is a lifecycle programm of a dev programme
+converting the raw mat to usable form is called as engineering process
+
+
+AGILE:
+requirement called as stories in agile which gathers the requirement of customers which converts to features which transfers to priority.
+*Product backlog-->first stage of agile
+*design the product for priority one(p1) story
+*coding,review,unit testing(this phase is called sprint or scrum)
+*test and deploy
+agile duration is max 2 weeks and max capacity of team would be 5
+
+review and unit test can be automated to achieve sprint objectives with the help of DevOps.
+=============================================================================================================================================
+
+
+
+
