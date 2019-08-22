@@ -55,6 +55,6 @@ agile duration is max 2 weeks and max capacity of team would be 5
 review and unit test can be automated to achieve sprint objectives with the help of DevOps.
 =============================================================================================================================================
 
-
+this is the first CI/CD build automation i have ever done.
 
 
